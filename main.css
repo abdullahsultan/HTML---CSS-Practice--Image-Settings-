@@ -31,9 +31,19 @@
     width: 1366px;
     height: 401px;
     background-color: #008000;
+    overflow: hidden;
+    padding: 25px;
 }
 
-.footer .info{
 
+.footer .info{
+}
+
+.footer .links{
+    
+    
+}
+
+.footer .contacts{
     
 }
